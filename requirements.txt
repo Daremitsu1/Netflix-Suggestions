@@ -1,0 +1,6 @@
+dplyr
+caret
+rpy2
+pandas
+pandas-profiling
+streamlit
